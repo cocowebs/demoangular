@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { IngresoComponent } from '../ingreso/ingreso.component';
 
 @Component({
   selector: 'app-cursos',
